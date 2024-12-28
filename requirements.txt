@@ -1,0 +1,5 @@
+matplotlib==3.10
+seaborn==0.13.1
+pandas==2.2.2
+itertools
+pytest==8.3.4
